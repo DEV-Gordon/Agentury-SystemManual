@@ -13,11 +13,10 @@ output:
 ## 1. Project Information
 
 **Project Name:** AGENTURI - Tourism Agency Management System\
-**Student Name:** \[To be completed\]\
-**Course:** \[To be completed\]\
-**Semester:** \[To be completed\]\
-**Date:** November 2025\
-**Instructor:** \[To be completed\]
+**Student Name:** \[Carlos H. Zarate\]\
+**Semester:** \[Six\]\
+**Date:** 20 November 2025\
+**Instructor:** \Jaider Quintero\]
 
 **Short Project Description:**\
 AGENTURI is a comprehensive full-stack web application designed for
